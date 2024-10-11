@@ -1,0 +1,12 @@
+# Supported Pokemon Stadium Versions: US (1.0)
+
+ed7bef5a306f88c0a6e96b15e71fee2ef32058f3:
+  name: Pokemon Stadium (USA) (1.0)
+  path: assets
+  config:
+    gbi: F3DEX
+    sort: OFFSET
+    output:
+      code: src/assets
+      headers: include/assets
+      modding: src/assets

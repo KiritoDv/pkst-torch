@@ -1,0 +1,8 @@
+:config:
+  force: true
+  segments:
+    # This is a hack to autodetect the compression
+    - [0x01, 0x3B96B0]
+
+n64_logo_texture:
+  { type: TEXTURE, ctype: u16, format: RGBA16, width: 128, height: 112, offset: 0x0, symbol: n64_logo_texture }
